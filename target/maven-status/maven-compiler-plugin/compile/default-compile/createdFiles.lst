@@ -1,0 +1,6 @@
+com\App.class
+com\kinesis\config\StreamConfig.class
+com\kinesis\controller\HelloController.class
+com\kinesis\processor\RecordProcesorFactory.class
+com\kinesis\component\HelloComponent.class
+com\kinesis\processor\RecordProcesor.class
